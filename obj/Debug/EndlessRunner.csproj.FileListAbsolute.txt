@@ -1,0 +1,15 @@
+C:\Users\48574\source\repos\EndlessRunner\EndlessRunner\bin\Debug\EndlessRunner.exe.config
+C:\Users\48574\source\repos\EndlessRunner\EndlessRunner\bin\Debug\EndlessRunner.exe
+C:\Users\48574\source\repos\EndlessRunner\EndlessRunner\bin\Debug\EndlessRunner.pdb
+C:\Users\48574\source\repos\EndlessRunner\EndlessRunner\obj\Debug\EndlessRunner.csproj.AssemblyReference.cache
+C:\Users\48574\source\repos\EndlessRunner\EndlessRunner\obj\Debug\MainWindow.g.cs
+C:\Users\48574\source\repos\EndlessRunner\EndlessRunner\obj\Debug\App.g.cs
+C:\Users\48574\source\repos\EndlessRunner\EndlessRunner\obj\Debug\EndlessRunner_MarkupCompile.cache
+C:\Users\48574\source\repos\EndlessRunner\EndlessRunner\obj\Debug\EndlessRunner_MarkupCompile.lref
+C:\Users\48574\source\repos\EndlessRunner\EndlessRunner\obj\Debug\MainWindow.baml
+C:\Users\48574\source\repos\EndlessRunner\EndlessRunner\obj\Debug\EndlessRunner.g.resources
+C:\Users\48574\source\repos\EndlessRunner\EndlessRunner\obj\Debug\EndlessRunner.Properties.Resources.resources
+C:\Users\48574\source\repos\EndlessRunner\EndlessRunner\obj\Debug\EndlessRunner.csproj.GenerateResource.cache
+C:\Users\48574\source\repos\EndlessRunner\EndlessRunner\obj\Debug\EndlessRunner.csproj.CoreCompileInputs.cache
+C:\Users\48574\source\repos\EndlessRunner\EndlessRunner\obj\Debug\EndlessRunner.exe
+C:\Users\48574\source\repos\EndlessRunner\EndlessRunner\obj\Debug\EndlessRunner.pdb
